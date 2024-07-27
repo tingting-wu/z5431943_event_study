@@ -4,6 +4,6 @@ Project configuration file
 """
 
 import os
-TOOLKIT_DIR = '/Users/christine/PycharmProjects/toolkit'
-PRJDIR = os.path.join(TOOLKIT_DIR, 'project2')
+PRJDIR = '/Users/christine/PycharmProjects/toolkit'
+DATADIR = os.path.join(PRJDIR, 'data')
 
